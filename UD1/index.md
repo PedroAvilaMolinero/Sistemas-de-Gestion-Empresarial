@@ -58,6 +58,7 @@ title: Curso de Gestión Empresarial
 
 <p style="text-align: justify;">
 
+
 ## 1. Introducción a la gestión empresarial
 
 Una empresa o negocio tiene razón de ser cuando es capaz de **generar beneficios**, ya que estos le permiten crecer, innovar y mantenerse competitiva en el mercado. Para lograrlo, debe gestionar de forma eficiente todos sus recursos, especialmente en entornos donde existen empresas que ofrecen productos o servicios similares.
