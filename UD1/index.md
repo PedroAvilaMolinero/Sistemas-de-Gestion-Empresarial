@@ -88,7 +88,7 @@ Durante los años 60 aparecieron los primeros sistemas informáticos orientados 
 
 En la década de los 70, se desarrollaron los sistemas de **Material Requirements Planning (MRP)**, que permitían planificar y gestionar de forma automatizada los inventarios y las órdenes de producción. El MRP ayudaba a reducir stocks innecesarios, minimizar retrasos y mejorar la eficiencia operativa. Sin embargo, tenía una limitación importante: **no consideraba los recursos disponibles** para ejecutar los planes generados.
 
-🟠 _Odoo incluye un módulo de MRP que permite planificar la producción teniendo en cuenta inventarios, listas de materiales (BoM), y demanda, superando muchas de las limitaciones iniciales del MRP clásico._
+🟠 Odoo incluye un módulo de MRP que permite planificar la producción teniendo en cuenta inventarios, listas de materiales (BoM), y demanda, superando muchas de las limitaciones iniciales del MRP clásico._
 
 **3\. Planificación de recursos de fabricación – MRP II (Años 80)**
 
@@ -100,13 +100,13 @@ Con la llegada del **MRP II (Manufacturing Resource Planning)**, se da un paso m
 
 Los **ERP (Enterprise Resource Planning)** nacen en los años 90 como sistemas integrados capaces de centralizar todos los procesos y datos de una empresa en una única plataforma: producción, logística, ventas, compras, contabilidad, nóminas, gestión de proyectos, etc. Esta integración permite una mayor trazabilidad, reducción de errores y una toma de decisiones más informada.
 
-🟠 _Odoo es un ERP moderno que sigue esta filosofía, con más de 40 módulos integrados y escalables, cubriendo desde las operaciones básicas hasta la gestión avanzada de proyectos o marketing. Gracias a su diseño modular, cada empresa puede adaptarlo a sus necesidades concretas._
+🟠 Odoo es un ERP moderno que sigue esta filosofía, con más de 40 módulos integrados y escalables, cubriendo desde las operaciones básicas hasta la gestión avanzada de proyectos o marketing. Gracias a su diseño modular, cada empresa puede adaptarlo a sus necesidades concretas._
 
 **5\. ERP II – ERP inteligente y estratégico (Desde los 2000)**
 
 La evolución hacia el **ERP II** representa una transformación estratégica. Ya no se trata solo de automatizar procesos, sino de convertir al sistema ERP en un motor de **inteligencia de negocio y ventaja competitiva**. Estos nuevos sistemas incorporan herramientas de **Business Intelligence (BI)**, análisis predictivo, integración con plataformas web, y **gestión automatizada de relaciones con clientes (CRM)**.
 
-🟠 _Odoo encarna perfectamente esta nueva etapa: su módulo de CRM está conectado con campañas automatizadas, inteligencia comercial y predicción de ventas. Además, gracias a su API y a herramientas como Odoo Studio, permite personalizaciones avanzadas y se adapta a modelos de negocio digitales, como tiendas online, servicios por suscripción o marketplaces.
+🟠 Odoo encarna perfectamente esta nueva etapa: su módulo de CRM está conectado con campañas automatizadas, inteligencia comercial y predicción de ventas. Además, gracias a su API y a herramientas como Odoo Studio, permite personalizaciones avanzadas y se adapta a modelos de negocio digitales, como tiendas online, servicios por suscripción o marketplaces.
 
 **6\. ERP con Inteligencia Artificial – ERP 3.0**
 
