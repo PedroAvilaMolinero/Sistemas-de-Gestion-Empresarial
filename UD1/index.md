@@ -56,9 +56,6 @@ title: Curso de Gestión Empresarial
    8.1. [Indicadores clave de desempeño (KPIs)](#81-indicadores-clave-de-desempeño-kpis)  
    8.2. [Checklist de auditoría](#82-checklist-de-auditoría)  
 
-<p style="text-align: justify;">
-
-
 ## 1. Introducción a la gestión empresarial
 
 Una empresa o negocio tiene razón de ser cuando es capaz de **generar beneficios**, ya que estos le permiten crecer, innovar y mantenerse competitiva en el mercado. Para lograrlo, debe gestionar de forma eficiente todos sus recursos, especialmente en entornos donde existen empresas que ofrecen productos o servicios similares.
@@ -69,10 +66,6 @@ Es importante distinguir entre empresa **privada** y **pública**. Ambas deben a
 - La **empresa pública** prioriza ofrecer servicios a la ciudadanía, aunque también busca eficiencia.
 
 En el centro de toda actividad empresarial está el **cliente**. Conocer sus necesidades y saber cómo satisfacerlas es fundamental. Aquí es donde la **tecnología** juega un papel clave: gracias a los avances en informática de gestión, es posible analizar datos, detectar oportunidades y personalizar la oferta. Herramientas modernas como **Odoo** permiten identificar y segmentar clientes, optimizar procesos y tomar decisiones basadas en información real. En definitiva, **el cliente** se convierte en la base de la rentabilidad empresarial.
-
-
-</p>
-
 
 ## 1.1. Evolución de la informática de gestión empresarial
 
