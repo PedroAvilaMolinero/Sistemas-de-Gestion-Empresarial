@@ -609,11 +609,11 @@ En este apartado se recogen **ejemplos representativos y aplicables a distintos 
 
 ## 6.1. Casos simulados: ERP aplicado en sectores específicos
 
-**🏙️ Caso simulado: Implantación de Odoo Community en ACEINSA**
+**🏙️ Caso simulado: Implantación de Odoo Community en Ciudatek**
 
 ### 🏢 ****Situación inicial de la empresa****
 
-**ACEINSA** es una empresa especializada en el diseño, instalación y mantenimiento de **infraestructura para la movilidad urbana**, incluyendo sistemas de regulación semafórica, señalización inteligente, sensores y redes de comunicación.
+**Ciudatek** es una empresa especializada en el diseño, instalación y mantenimiento de **infraestructura para la movilidad urbana**, incluyendo sistemas de regulación semafórica, señalización inteligente, sensores y redes de comunicación.
 
 #### 🔎 Problemática detectada
 
@@ -624,7 +624,7 @@ En este apartado se recogen **ejemplos representativos y aplicables a distintos 
 
 ### ⚙️ ****Solución implantada: Odoo Community + módulos personalizados****
 
-Se implanta **Odoo Community** en servidor propio con módulos de Inventario, Ventas y Compras, y se desarrollan pequeñas personalizaciones adaptadas a las necesidades de ACEINSA.
+Se implanta **Odoo Community** en servidor propio con módulos de Inventario, Ventas y Compras, y se desarrollan pequeñas personalizaciones adaptadas a las necesidades de Ciudatek.
 
 #### 🧩 Módulos utilizados y adaptaciones
 
@@ -656,7 +656,7 @@ Se implanta **Odoo Community** en servidor propio con módulos de Inventario, Ve
 
 ### 💡 ****Reflexión final****
 
-La implantación de Odoo Community en ACEINSA ha permitido convertir una gestión descentralizada y manual en un sistema integrado, flexible y controlado. Aunque se trata de una empresa técnica con componentes muy específicos, Odoo ha demostrado ser **lo suficientemente adaptable como para cubrir sus necesidades logísticas sin necesidad de grandes inversiones.**
+La implantación de Odoo Community en Ciudatek ha permitido convertir una gestión descentralizada y manual en un sistema integrado, flexible y controlado. Aunque se trata de una empresa técnica con componentes muy específicos, Odoo ha demostrado ser **lo suficientemente adaptable como para cubrir sus necesidades logísticas sin necesidad de grandes inversiones.**
 
 ## 6.2. Caso real en Andalucía: Transportes Avícolas de Andalucía (Córdoba)
 
