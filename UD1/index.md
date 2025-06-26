@@ -5,7 +5,7 @@ title: Curso de Gestión Empresarial
 
 
 <div style="border: 2px solid #4CAF50; padding: 15px; border-radius: 10px; background-color: #f9fff9;">
-  <h3>🧭 Índice de Unidades Didácticas</h3>
+  <h3>Unidades Didácticas</h3>
   <ul>
     <li>👉 <a href="../UD1/">UD1. Introducción a la gestión empresarial</a></li>
     <li>👉 <a href="../UD2/">UD2. Instalación y configuración de un ERP-CRM</a></li>
