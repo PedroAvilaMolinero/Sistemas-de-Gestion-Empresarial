@@ -56,7 +56,7 @@ title: Curso de Gestión Empresarial
    8.1. [Indicadores clave de desempeño (KPIs)](#81-indicadores-clave-de-desempeño-kpis)  
    8.2. [Checklist de auditoría](#82-checklist-de-auditoría)  
 
-
+<p style="text-align: justify;">
 
 ## 1. Introducción a la gestión empresarial
 
@@ -798,5 +798,7 @@ Una auditoría post-implantación garantiza que el sistema está funcionando cor
 | **Rendimiento** | ¿El sistema responde de forma ágil y estable bajo carga real? |
 | **Escalabilidad** | ¿Está preparado el ERP para crecer con la empresa? |
 | **Cumplimiento legal** | ¿El sistema cumple con normativas como la LOPD/GDPR o requisitos contables? |
+
+</p>
 
 [🔙 Volver al índice principal](../index.md)
