@@ -3,13 +3,14 @@ layout: default
 title: Curso de Gestión Empresarial
 ---
 
-## Índice del curso
 
-- [👉 UD1. Introducción a la gestión empresarial](UD1/)
-- [👉 UD2. Instalación y configuración de un ERP-CRM](UD2/)
-- [👉 UD3. Implantación y uso de sistemas ERP-CRM](UD3/)
-- [👉 UD4. Personalización y Adaptación Empresarial](UD4/)
-- [👉 UD5. Desarrollo de Componentes](UD5/)
+## 🧭 Índice del curso
+
+- [👉 UD1. Introducción a la gestión empresarial](./)
+- [👉 UD2. Instalación y configuración de un ERP-CRM](../UD2/)
+- [👉 UD3. Implantación y uso de sistemas ERP-CRM](../UD3/)
+- [👉 UD4. Personalización y Adaptación Empresarial](../UD4/)
+- [👉 UD5. Desarrollo de Componentes](../UD5/)
 
 
 # UD1. Introducción a la gestión empresarial
