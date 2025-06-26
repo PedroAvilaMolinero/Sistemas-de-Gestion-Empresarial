@@ -1,7 +1,6 @@
 
 ---
 layout: default
-title: UD1. Introducción a la gestión empresarial
 ---
 
 # UD1. Introducción a la gestión empresarial
