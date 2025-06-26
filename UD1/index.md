@@ -159,6 +159,8 @@ El ERP está compuesto por **módulos independientes pero conectados**, cada uno
 
 Un buen ERP debe ser **flexible y configurable** para adaptarse a los procesos específicos de cada empresa. Aunque existen versiones genéricas más económicas, muchos ERP como **Odoo** permiten una personalización profunda, adaptándose a las particularidades del negocio sin necesidad de desarrollos desde cero. Esta capacidad de adaptación es clave para que el sistema refleje con precisión la realidad operativa de la organización.
 
+![Integración-Modularidad-Adaptabilidad](./imagenes/ima.jpg)
+
 Gracias a la modularidad y capacidad de integración de las funcionalidades un sistema ERP es fácilmente adaptable a las necesidades de cada empresa, permitiendo una total configuración
 
 ## 2.2. Arquitectura de un sistema ERP
