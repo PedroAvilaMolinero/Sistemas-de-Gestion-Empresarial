@@ -104,9 +104,9 @@ Los **ERP (Enterprise Resource Planning)** nacen en los años 90 como sistemas i
 
 La evolución hacia el **ERP II** representa una transformación estratégica. Ya no se trata solo de automatizar procesos, sino de convertir al sistema ERP en un motor de **inteligencia de negocio y ventaja competitiva**. Estos nuevos sistemas incorporan herramientas de **Business Intelligence (BI)**, análisis predictivo, integración con plataformas web, y **gestión automatizada de relaciones con clientes (CRM)**.
 
-🟠 _Odoo encarna perfectamente esta nueva etapa: su módulo de CRM está conectado con campañas automatizadas, inteligencia comercial y predicción de ventas. Además, gracias a su API y a herramientas como Odoo Studio, permite personalizaciones avanzadas y se adapta a modelos de negocio digitales, como tiendas online, servicios por suscripción o marketplaces._
+🟠 _Odoo encarna perfectamente esta nueva etapa: su módulo de CRM está conectado con campañas automatizadas, inteligencia comercial y predicción de ventas. Además, gracias a su API y a herramientas como Odoo Studio, permite personalizaciones avanzadas y se adapta a modelos de negocio digitales, como tiendas online, servicios por suscripción o marketplaces.
 
-### 6\. ****ERP con Inteligencia Artificial – ERP 3.0****
+**6\. ERP con Inteligencia Artificial – ERP 3.0**
 
 A partir de 2023, los sistemas ERP entran en una nueva fase: la integración de **inteligencia artificial (IA)** como parte esencial del sistema. Este avance marca el inicio de los llamados **ERP 3.0**, caracterizados por su capacidad para **automatizar decisiones, generar contenido, anticiparse a la demanda y optimizar procesos** con algoritmos inteligentes.
 
