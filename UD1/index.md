@@ -74,8 +74,9 @@ En el centro de toda actividad empresarial está el **cliente**. Conocer sus nec
 
 Un **sistema de gestión empresarial** es un conjunto de recursos tecnológicos y organizativos diseñados para facilitar el tratamiento automatizado de la información en una empresa, permitiendo además su correcta comunicación y distribución entre los distintos departamentos.
 
-Una posible clasificación según su evolución a lo largo del tiempo puede ser:
 ![Evolución de los sistemas ERP](./imagenes/evolucion.jpg)
+
+Una posible clasificación según su evolución a lo largo del tiempo puede ser:
 
 **1\. Gestión contable y administrativa (Años 60)**
 
