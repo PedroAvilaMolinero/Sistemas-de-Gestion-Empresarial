@@ -3,16 +3,6 @@ layout: default
 title: Curso de Gestión Empresarial
 ---
 
-<style>
-p {
-    text-align: justify;
-    line-height: 1.6;
-}
-a {
-    font-size: 1.2em;
-}
-</style>
-
 # Curso de Gestión Empresarial con Odoo
 
 <p>
