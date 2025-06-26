@@ -60,7 +60,7 @@ title: Curso de Gestión Empresarial
 
 ## 1. Introducción a la gestión empresarial
 
-Una empresa o negocio tiene razón de ser cuando es capaz de generar beneficios, ya que estos le permiten crecer, innovar y mantenerse competitiva en el mercado. Para lograrlo, debe gestionar de forma eficiente todos sus recursos, especialmente en entornos donde existen empresas que ofrecen productos o servicios similares.
+Una empresa o negocio tiene razón de ser cuando es capaz de **generar beneficios**, ya que estos le permiten crecer, innovar y mantenerse competitiva en el mercado. Para lograrlo, debe gestionar de forma eficiente todos sus recursos, especialmente en entornos donde existen empresas que ofrecen productos o servicios similares.
 
 Es importante distinguir entre empresa **privada** y **pública**. Ambas deben administrar bien sus recursos, pero sus objetivos difieren:
 
