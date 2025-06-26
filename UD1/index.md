@@ -1,3 +1,17 @@
+---
+layout: page
+title: Curso de Gestión Empresarial
+---
+
+<style>
+p {
+    text-align: justify;
+    line-height: 1.6;
+}
+a {
+    font-size: 1.2em;
+}
+</style>
 # UNIDAD 1  
 ## INTRODUCCIÓN A LA GESTIÓN EMPRESARIAL  
   
