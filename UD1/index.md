@@ -1,8 +1,13 @@
-# UNIDAD 1: INTRODUCCIÓN A LA GESTIÓN EMPRESARIAL    
-## INTRODUCCIÓN A LA GESTIÓN EMPRESARIAL  
-### 2º DAM  
 
-## Índice  
+---
+layout: default
+title: UD1. Introducción a la gestión empresarial
+---
+
+# UD1. Introducción a la gestión empresarial
+
+## Índice
+
 
 
 1. [Introducción a la gestión empresarial](#1-introducción-a-la-gestión-empresarial)  
