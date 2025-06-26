@@ -1,12 +1,7 @@
 ---
-layout: single
-title: "UD1. Introducción a la gestión empresarial"
-description: "Unidad 1 del curso de Gestión Empresarial con Odoo"
-permalink: /UD1/
-sidebar:
-  nav: "unidades"
+layout: default
+title: Curso de Gestión Empresarial
 ---
-
 
 # UD1. Introducción a la gestión empresarial
 
