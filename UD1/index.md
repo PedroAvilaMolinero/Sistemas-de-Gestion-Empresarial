@@ -1,5 +1,5 @@
 
-[🔙 Volver al índice principal](../index.md)
+
 
 # UD1. Introducción a la gestión empresarial
 
@@ -774,3 +774,5 @@ Una auditoría post-implantación garantiza que el sistema está funcionando cor
 | **Rendimiento** | ¿El sistema responde de forma ágil y estable bajo carga real? |
 | **Escalabilidad** | ¿Está preparado el ERP para crecer con la empresa? |
 | **Cumplimiento legal** | ¿El sistema cumple con normativas como la LOPD/GDPR o requisitos contables? |
+
+[🔙 Volver al índice principal](../index.md)
