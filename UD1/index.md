@@ -1,21 +1,9 @@
----
-layout: default
-title: Curso de Gestión Empresarial
----
-
-<style>
-p {
-    text-align: justify;
-    line-height: 1.6;
-}
-a {
-    font-size: 1.2em;
-}
-</style>
-# UNIDAD 1
+# UNIDAD 1: INTRODUCCIÓN A LA GESTIÓN EMPRESARIAL    
 ## INTRODUCCIÓN A LA GESTIÓN EMPRESARIAL  
-  
-## Índice
+### 2º DAM  
+
+## Índice  
+
 
 1. [Introducción a la gestión empresarial](#1-introducción-a-la-gestión-empresarial)  
    1.1. [Evolución de la informática de gestión empresarial](#11-evolución-de-la-informática-de-gestión-empresarial)  
