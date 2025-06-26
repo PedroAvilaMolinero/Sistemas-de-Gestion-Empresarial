@@ -16,7 +16,6 @@ title: Curso de Gestión Empresarial
 </div>
 
 
-
 # UD1. Introducción a la gestión empresarial
 
 ## Índice
@@ -127,6 +126,9 @@ Gracias a su API y modularidad, **Odoo 18 permite además integrar modelos de IA
 # 2\. Sistemas ERP
 
 Después de repasar la evolución histórica de los sistemas de gestión empresarial, es momento de centrarnos en el concepto de **ERP**.
+
+![Sistemas ERP](./imagenes/ERP.jpg)
+
 
 Un **ERP** (Enterprise Resource Planning o Planificación de Recursos Empresariales) es un sistema de gestión de la información que **integra y automatiza** muchos de los procesos clave de una empresa, especialmente aquellos relacionados con las áreas **operativas y productivas**. Su objetivo es eliminar la dependencia de múltiples sistemas desconectados, proporcionando una solución unificada.
 
