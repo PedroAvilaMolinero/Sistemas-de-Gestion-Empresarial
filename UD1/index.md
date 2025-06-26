@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Curso de Gestión Empresarial
+---
 
 
 # UD1. Introducción a la gestión empresarial
