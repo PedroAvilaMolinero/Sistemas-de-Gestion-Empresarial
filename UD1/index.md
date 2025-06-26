@@ -611,7 +611,7 @@ En este apartado se recogen **ejemplos representativos y aplicables a distintos 
 
 **🏙️ Caso simulado: Implantación de Odoo Community en Ciudatek**
 
-### 🏢 ****Situación inicial de la empresa****
+### 🏢 **Situación inicial de la empresa**
 
 **Ciudatek** es una empresa especializada en el diseño, instalación y mantenimiento de **infraestructura para la movilidad urbana**, incluyendo sistemas de regulación semafórica, señalización inteligente, sensores y redes de comunicación.
 
@@ -622,7 +622,7 @@ En este apartado se recogen **ejemplos representativos y aplicables a distintos 
 - Se producen **errores frecuentes** en la planificación de instalaciones por falta o duplicación de materiales.
 - No existe trazabilidad de materiales instalados ni control sobre los puntos de reposición.
 
-### ⚙️ ****Solución implantada: Odoo Community + módulos personalizados****
+### ⚙️ **Solución implantada: Odoo Community + módulos personalizados**
 
 Se implanta **Odoo Community** en servidor propio con módulos de Inventario, Ventas y Compras, y se desarrollan pequeñas personalizaciones adaptadas a las necesidades de Ciudatek.
 
@@ -644,7 +644,7 @@ Se implanta **Odoo Community** en servidor propio con módulos de Inventario, Ve
   - Integración con planos o coordenadas (campo personalizado).
   - Reportes técnicos por obra/cliente con lista de materiales consumidos.
 
-### 📈 ****Resultados obtenidos tras 6 meses de uso****
+### 📈 **Resultados obtenidos tras 6 meses de uso**
 
 | Indicador | Resultado |
 | --- | --- |
@@ -654,7 +654,7 @@ Se implanta **Odoo Community** en servidor propio con módulos de Inventario, Ve
 | Gestión de proyectos técnicos | Mejora del 30 % en tiempos de ejecución por mejor planificación de materiales. |
 | Profesionalización operativa | Registro digital centralizado y auditable de todo el inventario técnico. |
 
-### 💡 ****Reflexión final****
+### 💡 **Reflexión final**
 
 La implantación de Odoo Community en Ciudatek ha permitido convertir una gestión descentralizada y manual en un sistema integrado, flexible y controlado. Aunque se trata de una empresa técnica con componentes muy específicos, Odoo ha demostrado ser **lo suficientemente adaptable como para cubrir sus necesidades logísticas sin necesidad de grandes inversiones.**
 
