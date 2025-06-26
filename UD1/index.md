@@ -129,7 +129,7 @@ Después de repasar la evolución histórica de los sistemas de gestión empresa
 
 Un **ERP** (Enterprise Resource Planning o Planificación de Recursos Empresariales) es un sistema de gestión de la información que **integra y automatiza** muchos de los procesos clave de una empresa, especialmente aquellos relacionados con las áreas **operativas y productivas**. Su objetivo es eliminar la dependencia de múltiples sistemas desconectados, proporcionando una solución unificada.
 
-![Sistemas ERP](./imagenes/erpLibrePropietario.jpg)
+![Sistemas ERP](./imagenes/erpLibrePropietario.png)
 
 Los ERP están diseñados con una **arquitectura modular**. Cada módulo gestiona un área específica del negocio, como:
 
