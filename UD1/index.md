@@ -69,6 +69,10 @@ Es importante distinguir entre empresa **privada** y **pública**. Ambas deben a
 
 En el centro de toda actividad empresarial está el **cliente**. Conocer sus necesidades y saber cómo satisfacerlas es fundamental. Aquí es donde la **tecnología** juega un papel clave: gracias a los avances en informática de gestión, es posible analizar datos, detectar oportunidades y personalizar la oferta. Herramientas modernas como **Odoo** permiten identificar y segmentar clientes, optimizar procesos y tomar decisiones basadas en información real. En definitiva, **el cliente** se convierte en la base de la rentabilidad empresarial.
 
+
+</p>
+
+
 ## 1.1. Evolución de la informática de gestión empresarial
 
 Un **sistema de gestión empresarial** es un conjunto de recursos tecnológicos y organizativos diseñados para facilitar el tratamiento automatizado de la información en una empresa, permitiendo además su correcta comunicación y distribución entre los distintos departamentos.
@@ -798,7 +802,5 @@ Una auditoría post-implantación garantiza que el sistema está funcionando cor
 | **Rendimiento** | ¿El sistema responde de forma ágil y estable bajo carga real? |
 | **Escalabilidad** | ¿Está preparado el ERP para crecer con la empresa? |
 | **Cumplimiento legal** | ¿El sistema cumple con normativas como la LOPD/GDPR o requisitos contables? |
-
-</p>
 
 [🔙 Volver al índice principal](../index.md)
