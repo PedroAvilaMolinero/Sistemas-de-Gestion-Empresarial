@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 # UD1. Introducción a la gestión empresarial
 
 ## Índice
