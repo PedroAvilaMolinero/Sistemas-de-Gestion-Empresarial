@@ -129,7 +129,7 @@ Después de repasar la evolución histórica de los sistemas de gestión empresa
 
 Un **ERP** (Enterprise Resource Planning o Planificación de Recursos Empresariales) es un sistema de gestión de la información que **integra y automatiza** muchos de los procesos clave de una empresa, especialmente aquellos relacionados con las áreas **operativas y productivas**. Su objetivo es eliminar la dependencia de múltiples sistemas desconectados, proporcionando una solución unificada.
 
-![Sistemas ERP](./imagenes/erpLibrePropietario.png)
+![Sistemas ERP](./imagenes/ERP.JPG)
 
 Los ERP están diseñados con una **arquitectura modular**. Cada módulo gestiona un área específica del negocio, como:
 
@@ -238,7 +238,12 @@ Todo sistema ERP necesita una base de datos para almacenar de forma estructurada
 
 ### 2.3. Tipos de sistemas ERP según su licencia
 
-A la hora de implantar un sistema ERP, es fundamental conocer el modelo de licencia, ya que esto influye directamente en el **coste**, la **flexibilidad** y la **capacidad de personalización** del sistema. Existen principalmente dos tipos:
+A la hora de implantar un sistema ERP, es fundamental conocer el modelo de licencia, ya que esto influye directamente en el **coste**, la **flexibilidad** y la **capacidad de personalización** del sistema.
+
+
+![Sistemas ERP Libres vs Propietarios](./imagenes/erpLibrePropietario.png)
+
+Existen principalmente dos tipos:
 
 #### **🔒 ERP propietarios**
 
