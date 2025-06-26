@@ -12,8 +12,7 @@ a {
     font-size: 1.2em;
 }
 </style>
-# UNIDAD 1  
-## INTRODUCCIÓN A LA GESTIÓN EMPRESARIAL  
+# UNIDAD 1: INTRODUCCIÓN A LA GESTIÓN EMPRESARIAL  
   
 ## Índice
 
